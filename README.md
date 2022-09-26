@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, C++, Javascript**
 
-- 📫 How to reach me **kushal99mondal@gmail.com**
+- 📫 How to reach me **https://kushalmondal.netlify.app**
 
 - ⚡ Fun fact **Also very much into Video Games**
 
