@@ -1,4 +1,4 @@
-<img src="https://wallpaperaccess.com/full/7167569.png" height="100">
+<img src="https://wallpaperaccess.com/full/7167569.png" height="200" width="800">
 <h1 align="center">Hi 👋, I'm Kushal Mondal</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
