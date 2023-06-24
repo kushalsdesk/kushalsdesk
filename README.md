@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/kushal99mondal" target="_blank"><img src="https://img.shields.io/twitter/follow/kushal99mondal?logo=twitter&style=for-the-badge" alt="kushal99mondal" /></a> </p>
 
-- 🌱 I’m currently learning **MERN, Next.js**
+- 🌱 I’m currently learning **Ruby on Rails, C#**
 
-- 💬 Ask me about **Java, C++, Javascript**
+- 💬 Ask me about **Java, Typescript, Javascript**
 
 - 📫 How to reach me **https://kushalmondal.netlify.app**
 
