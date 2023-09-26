@@ -79,11 +79,11 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushalmydesk&show_icons=true&locale=en&layout=compact" alt="kushalmydesk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalmydesk&show_icons=true&locale=en&layout=compact" alt="kushalmydesk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kushalmydesk&show_icons=true&locale=en" alt="kushalmydesk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushalmydesk&show_icons=true&locale=en" alt="kushalmydesk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushalmydesk&" alt="kushalmydesk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushalmydesk&" alt="kushalmydesk" /></p>
 
 ![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushalmydesk&show_icons=true&theme=radical)
 
