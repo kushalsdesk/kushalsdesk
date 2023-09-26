@@ -83,6 +83,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushalmydesk&show_icons=true&locale=en" alt="kushalmydesk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushalmydesk&" alt="kushalmydesk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushalmydesk&show_icons=true&locale=en" alt="kushalmydesk" /></p>
 
 
