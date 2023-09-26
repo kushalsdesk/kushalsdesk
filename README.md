@@ -81,7 +81,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalsdesk&show_icons=true&locale=en&layout=compact" alt="kushalmydesk" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushalsdesk&show_icons=true&locale=en" alt="kushalmydesk" /></p>
-<img align="center" src="https://streak-stats.demolab.com/?user=kushalsdesk&theme=dracula" alt="kushalsdesk"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kushalsdesk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
 
