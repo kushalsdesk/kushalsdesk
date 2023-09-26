@@ -79,10 +79,10 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalmydesk&show_icons=true&locale=en&layout=compact" alt="kushalmydesk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalsdesk&show_icons=true&locale=en&layout=compact" alt="kushalmydesk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushalmydesk&show_icons=true&locale=en" alt="kushalmydesk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushalsdesk&show_icons=true&locale=en" alt="kushalmydesk" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kushalmydesk)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kushalsdesk)](https://git.io/streak-stats)
 
 
