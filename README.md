@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kushal99mondal" target="_blank"><img src="https://img.shields.io/twitter/follow/kushal99mondal?logo=twitter&style=for-the-badge" alt="kushal99mondal" /></a> </p>
 
-- 🌱 I’m currently learning **NEXT.js, ROR, ASP.NET**
+- 🌱 I’m currently learning **NEXT.js, Postgrsql, Golang**
 
 - 💬 Ask me about **Java, Typescript, Javascript**
 
