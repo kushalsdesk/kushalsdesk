@@ -22,11 +22,11 @@
   <tr>
     <td>
 	    <p align="left">
-			    <a href="https://skillicons.dev">
-				    <img src="https://skillicons.dev/icons?i=js,ts,java,go,ruby,php,lua" />
-			    </a>
-		   </p>
-	   </td>
+		<a href="https://skillicons.dev">
+			<img src="https://skillicons.dev/icons?i=js,ts,java,go,ruby,php,lua" />
+		</a>
+	    </p>
+     </td>
     <td>
 	    <p align="right">
 				  <a href="https://skillicons.dev">
@@ -34,6 +34,26 @@
 				  </a>
 		   </p>
 	   </td>
+  </tr>
+	<tr>
+	  <th>Databases</th>
+	  <th>Tools</th>
+  </tr>
+  <tr>
+	  <td>
+	   <p align="left">
+			  <a href="https://skillicons.dev">
+				    <img src="https://skillicons.dev/icons?i=mongo,mysql,firebase,postgresql" />
+			  </a>
+		</p>
+	  </td>
+	  <td>
+	   <p align="right">
+				  <a href="https://skillicons.dev">
+					    <img src="https://skillicons.dev/icons?i=powershell,neovim,postman,git" />
+				  </a>
+		</p>
+	  </td>
   </tr>
 </table>
 
