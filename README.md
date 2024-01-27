@@ -11,8 +11,6 @@
 
 - 🖥️ Favourite line of code `git commit -m "Initial Commit"`
 
-- 📫 How to reach me **https://kushalmondal.netlify.app**
-
 - ⚡ Fun fact **Also very much into Video Games**
 
 <table align="center" width=100%>
