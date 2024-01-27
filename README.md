@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Also very much into Video Games**
 
-<table align="center" width=100%>
+<table align="center" width=90%>
   <tr>
     <th>Languages</th>
     <th>Techs</th>
@@ -21,20 +21,21 @@
   <tr>
     <td>
 	    <p align="left">
-		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=js,ts,java,go,ruby,php,lua" />
-		</a>
-	    </p>
-     </td>
+			  <a href="https://skillicons.dev">
+				    <img src="https://skillicons.dev/icons?i=js,ts,java,go,ruby,php,lua" />
+			  </a>
+		</p>
+	</td>
     <td>
 	    <p align="right">
 				  <a href="https://skillicons.dev">
-					    <img src="https://skillicons.dev/icons?i=react,next,nodejs,expressjs,redux,bun" />
-				</a>
-		   </p>
-	   </td>
+					    <img src="https://skillicons.dev/icons?i=react,next,nodejs,expressjs,redux" />
+					    <img height="45" width="45" src="https://cdn.simpleicons.org/gin/eee/_" />
+				  </a>
+		</p>
+	</td>
   </tr>
-	<tr>
+  <tr>
 	  <th>Databases</th>
 	  <th>Tools</th>
   </tr>
@@ -49,7 +50,7 @@
 	  <td>
 	   <p align="right">
 				  <a href="https://skillicons.dev">
-					    <img src="https://skillicons.dev/icons?i=powershell,neovim,postman,git" />
+					    <img src="https://skillicons.dev/icons?i=powershell,neovim,postman,git,vite" />
 				  </a>
 		</p>
 	  </td>
