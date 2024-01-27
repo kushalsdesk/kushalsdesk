@@ -3,6 +3,7 @@
 <p align="center"> 
  <a href="https://twitter.com/kushal99mondal" target="_blank"><img src="https://img.shields.io/badge/profile-blue?style=for-the-badge&logo=twitter&label=twitter" alt="kushal99mondal" /></a> 
  <a href="https://www.linkedin.com/in/kushal-mondal-dev" target="_blank"><img src="https://img.shields.io/badge/profile-blue?style=for-the-badge&logo=linkedin&label=linkedin&color=%237777f6" alt="kushal99mondal" /></a>
+<a href="https://kushalmondal.netlify.app" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/profile-blue?style=for-the-badge&logo=netlify&label=Portfolio&color=green"></a>
 </p>
 <hr>
 
@@ -31,7 +32,7 @@
 	    <p align="right">
 				  <a href="https://skillicons.dev">
 					    <img src="https://skillicons.dev/icons?i=react,next,nodejs,expressjs,redux,bun" />
-				  </a>
+				</a>
 		   </p>
 	   </td>
   </tr>
