@@ -58,7 +58,7 @@
 </table>
 
 <hr>
-<p>
+<p align="center" width=100%>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalsdesk&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width=355>
 	<img src="https://github-readme-stats.vercel.app/api?username=kushalsdesk&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
 </p>
