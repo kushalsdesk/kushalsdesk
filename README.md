@@ -30,7 +30,6 @@
 	    <p align="right">
 				  <a href="https://skillicons.dev">
 					    <img src="https://skillicons.dev/icons?i=react,next,nodejs,expressjs,redux" />
-					    <img height="45" width="45" src="https://cdn.simpleicons.org/gin/eee/_" />
 				  </a>
 		</p>
 	</td>
