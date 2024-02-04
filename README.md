@@ -7,7 +7,7 @@
 </p>
 <hr>
 
-- 🌱 I’m currently learning **NEXT.js, Postgrsql, Golang**
+- 🔭 Currently focusing on **NEXT.js, Postgrsql, Golang**
 
 - 🖥️ Favourite line of code `git commit -m "Initial Commit"`
 
