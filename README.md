@@ -29,7 +29,7 @@
     <td>
 	    <p align="right">
 				  <a href="https://skillicons.dev">
-					    <img src="https://skillicons.dev/icons?i=react,next,nodejs,expressjs" />
+					    <img src="https://skillicons.dev/icons?i=react,next,nodejs,expressjs,tailwind" />
 				  </a>
 		</p>
 	</td>
