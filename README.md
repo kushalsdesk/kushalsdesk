@@ -49,7 +49,7 @@
 	  <td>
 	   <p align="right">
 				  <a href="https://skillicons.dev">
-					    <img src="https://skillicons.dev/icons?i=powershell,neovim,postman,git,vite" />
+					    <img src="https://skillicons.dev/icons?i=neovim,postman,git,vite" />
 				  </a>
 		</p>
 	  </td>
