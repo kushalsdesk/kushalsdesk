@@ -9,11 +9,18 @@
 </p>
 <hr>
 
-- 🔭 Currently focusing on **NEXT.js, PostgreSQL, Golang**
-
-- 🖥️ Favourite line of code `git commit -m "Initial Commit"`
-
-- ⚡ Fun fact **Also very much into Video Games**
+<div>
+	<div align="left">
+		<p>🔭 Currently focusing on **NEXT.js, PostgreSQL, Golang
+</p>
+		<p>🖥️ Favourite line of code <code>git commit -m "Initial Commit</code>
+</p>
+		<p>⚡ Fun fact **Also very much into Video Games </p>
+		</div>
+	<div align="right">
+		<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="220">
+	</div>
+</div>
 
 <table align="center" width=90%>
   <tr>
