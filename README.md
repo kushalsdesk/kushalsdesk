@@ -62,7 +62,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kushalsdesk&theme=tokyonight&show_icons=true&hide_border=true" alt="kushalsdesk's Stats"height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalsdesk&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="kushalsdesk's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalsdesk&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="kushalsdesk's Top Languages" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushalsdesk&theme=tokyonight&hide_border=true" alt="kushalsdesk's Streak" height="120"/>
 
 <img src="https://raw.githubusercontent.com/kushalsdesk/kushalsdesk/output/snake.svg" alt="Snake animation" />
