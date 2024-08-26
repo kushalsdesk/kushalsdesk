@@ -56,7 +56,7 @@
     <td>
      <p align="right">
 	      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=kushalsdesk&theme=tokyonight&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" height="100" />
+        <img src="https://streak-stats.demolab.com?user=kushalsdesk&theme=tokyonight&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" height="150" />
       </a>
      </p>
     </td>
