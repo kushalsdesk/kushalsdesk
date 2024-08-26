@@ -8,14 +8,8 @@
 	<img src="https://skillicons.dev/icons?i=neovim" height="30" />
 	</a>
 </h3>
-    
-<p align="center"> 
- <a href="https://twitter.com/kushal99mondal" target="_blank"><img src="https://img.shields.io/badge/profile-blue?style=for-the-badge&logo=twitter&label=twitter" alt="kushal99mondal" /></a> 
- <a href="https://www.linkedin.com/in/kushal-mondal-dev" target="_blank"><img src="https://img.shields.io/badge/profile-blue?style=for-the-badge&logo=linkedin&label=linkedin&color=%237777f6" alt="kushal99mondal" /></a>
-<a href="https://kushalmondal.netlify.app" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/profile-blue?style=for-the-badge&logo=netlify&label=Portfolio&color=green"></a>
-</p>
 <hr>
-<table align="center">
+<table align="center" width=100%>
   <tr>
     <td>
       <p>🔭 Currently focusing on <strong>NEXT.js, PostgreSQL, Golang</strong></p>
@@ -24,7 +18,7 @@
     </td>
     <td>
       <p align="right">
-	      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="120">
+	      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="180">
       </p>
     </td>
   </tr>
@@ -56,20 +50,20 @@
     <tr>
         <td>
         <p align="left">
-	      <img src="https://github-readme-stats.vercel.app/api?username=kushalsdesk&theme=tokyonight&show_icons=true&hide_border=true" alt="kushalsdesk's Stats" height="180" />
+	     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalsdesk&theme=tokyonight&count_private=true&hide_border=true&hide=css,cmake&layout=compact&langs_count=8" height="250"/></a>
       </p>
     </td>
     <td>
      <p align="right">
 	      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=kushalsdesk&theme=tokyonight&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" height="180" />
+        <img src="https://streak-stats.demolab.com?user=kushalsdesk&theme=tokyonight&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" height="100" />
       </a>
      </p>
     </td>
   </tr>
   </table>
   <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalsdesk&layout=compact&theme=tokyonight&count_private=true&hide_border=true" height="180"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api?username=kushalsdesk&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" alt="kushalsdesk's Stats" height="220" />
   <div>
 </div>
 </details>
