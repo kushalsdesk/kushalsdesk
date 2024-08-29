@@ -32,7 +32,7 @@
 <div align="center" width=50%>
 <p>
 <a href="https://skillicons.dev">
-	<img src="https://skillicons.dev/icons?i=ts,java,go,lua,react,next,nodejs,express,tailwind,mongodb,firebase" />
+	<img src="https://skillicons.dev/icons?i=ts,java,go,lua,react,next,nodejs,express,tailwind,mongodb,firebase,docker" />
 	</a>
 </p>
 </div>
@@ -56,7 +56,7 @@
     <td>
      <p align="right">
 	      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=kushalsdesk&theme=tokyonight&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" height="150" />
+        <img src="https://streak-stats.demolab.com?user=kushalsdesk&theme=tokyonight&hide_border=true&hide_longest_streak=true&exclude_days=Sun" alt="GitHub Streak" height="180" />
       </a>
      </p>
     </td>
