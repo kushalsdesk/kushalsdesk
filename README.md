@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kushal</h1>
-<h3 align="center">🕸️ developer on</h3>
-<a href="https://skillicons.dev">
+<h3 align="center">🕸️ developer on<a href="https://skillicons.dev">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg"height="35" />
 	</a>
 	 with  
