@@ -1,9 +1,8 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXpuazljNjdnODNobWx4NWg5a3FlN2oydXBpenE0M2dvamx6NmJmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPtjElfqwMOTbH2/giphy.gif" width="100" style="vertical-align: middle;"/> 
-  Hi, I'm Kushal 
 </h1>
 
-<h3 align="center">🕸️ Developer on  
+<h3 align="center">on 
   <a href="https://fedoraproject.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" height="30" />
   </a> 
@@ -22,12 +21,11 @@
 </div>
 
 
-<h1 align="center">
-<img src="https://raw.githubusercontent.com/kushalsdesk/kushalsdesk/refs/heads/main/assets/telescope.png" height="150" width="180" style="vertical-align: middle; margin-right: 50px; "/> 
+<h2 align="center">
 <img src="https://skillicons.dev/icons?i=postgres" height="50" style="vertical-align: top;"/> 
 <img src="https://skillicons.dev/icons?i=redis" height="50" style="vertical-align: top;"/> 
 <img src="https://raw.githubusercontent.com/kushalsdesk/kushalsdesk/refs/heads/main/assets/encore.png" height="50" style="vertical-align: top;"/> 
-</h1>
+</h2>
 
 
 
