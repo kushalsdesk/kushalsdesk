@@ -36,18 +36,4 @@
 
 --- 
 
-<details>
-  <summary>🌌 My Stats</summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=kushalsdesk&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" height="180"/>
-        </td>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalsdesk&hide=css,java,php&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
+
