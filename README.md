@@ -16,7 +16,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,go,next,bun,express" /><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,supabase" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/podman.svg" height="50" />
 </div>
 
