@@ -15,15 +15,14 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,next,bun,express" /><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,supabase" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/podman.svg" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts,go,next,bun,express,nest"/>
+  <img src="https://raw.githubusercontent.com/kushalsdesk/kushalsdesk/refs/heads/main/assets/ginlogo.png" height="50" style="vertical-align: top;"/>  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/><br/>
+  <img src="https://skillicons.dev/icons?i=docker" height="50" />
 </div>
 
 
 <h2 align="center">
-<img src="https://skillicons.dev/icons?i=postgres" height="50" style="vertical-align: top;"/> 
-<img src="https://skillicons.dev/icons?i=redis" height="50" style="vertical-align: top;"/> 
 <img src="https://raw.githubusercontent.com/kushalsdesk/kushalsdesk/refs/heads/main/assets/encore.png" height="50" style="vertical-align: top;"/> 
 </h2>
 
