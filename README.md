@@ -1,38 +1,32 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXpuazljNjdnODNobWx4NWg5a3FlN2oydXBpenE0M2dvamx6NmJmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPtjElfqwMOTbH2/giphy.gif" width="100" style="vertical-align: middle;"/> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXpuazljNjdnODNobWx4NWg5a3FlN2oydXBpenE0M2dvamx6NmJmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPtjElfqwMOTbH2/giphy.gif" width="100" style="vertical-align: middle;"/>
 </h1>
 
-<h3 align="center">on 
+<h3 align="center">on
   <a href="https://fedoraproject.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" height="30" />
-  </a> 
-  with  
+  </a>
+  with
   <a href="https://neovim.io/">
     <img src="https://skillicons.dev/icons?i=neovim" height="30" />
   </a>
 </h3>
 
-
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,next,bun,express,nest"/>
-  <img src="https://raw.githubusercontent.com/kushalsdesk/kushalsdesk/refs/heads/main/assets/ginlogo.png" height="50" style="vertical-align: top;"/>  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,bun,express,nest,react,next"/>
+  <br/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/><br/>
-  <img src="https://skillicons.dev/icons?i=docker" height="50" />
+  <img src="https://skillicons.dev/icons?i=docker,kafka" height="50" />
 </div>
-
 
 <h2 align="center">
-<img src="https://raw.githubusercontent.com/kushalsdesk/kushalsdesk/refs/heads/main/assets/encore.png" height="50" style="vertical-align: top;"/> 
+<p>Latest Interests:</p>
+<img src="https://skillicons.dev/icons?i=go"/>
+  <a href="https://encore.dev">
+    <img src="https://raw.githubusercontent.com/kushalsdesk/kushalsdesk/refs/heads/main/assets/encore.png" height="50" style="vertical-align: top;"/>
+  </a>
 </h2>
 
-
-
-
 <div align="center">
- <img src="https://raw.githubusercontent.com/kushalsdesk/kushalsdesk/output/snake.svg" alt="Snake animation" width="80%"/>
+  <img src="https://raw.githubusercontent.com/kushalsdesk/kushalsdesk/output/snake.svg" alt="Snake animation" width="80%"/>
 </div>
-
---- 
-
-
